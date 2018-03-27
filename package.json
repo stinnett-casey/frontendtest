@@ -1,8 +1,9 @@
 {
-  "name": "vue-like-chess",
+  "name": "chess-frontend-tests",
   "version": "1.0.0",
-  "description": "Chess.com test",
+  "description": "FrontEnd Programming Challenge for Chess.com",
   "author": "Casey Stinnett <stinnett.casey@gmail.com>",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
