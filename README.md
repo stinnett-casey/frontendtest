@@ -18,3 +18,5 @@ Welcome to the [Chess.com](https://chess.com) front end programming challenge!
 
 # Questions & Feedback
 Please contact Chuck Haines (chaines@gmail.com) with any questions or feedback regarding this challenge.
+
+The link to it hosted: [https://chess-vue.firebaseapp.com](https://chess-vue.firebaseapp.com)
