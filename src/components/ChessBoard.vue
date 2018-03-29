@@ -21,19 +21,22 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
   .chessboard {
-    width: 70vw;
+    width: 53vw;
     display: -webkit-flex;
     display: flex;
     -webkit-flex-wrap: wrap;
     flex-wrap: wrap;
-    /*background: url('http://www.backgroundsy.com/file/large/wood-grain.jpg') no-repeat center center fixed;*/
-  }
-
-  .chessboard {
-    float: left;
+    border-radius: 3px;
+    margin: 0 auto;
   }
 
   @media all and (max-width: 870px){
+    .chessboard {
+      width: 80vw;
+    }
+  }
+
+  @media all and (max-width: 600px){
     .chessboard {
       width: 100vw;
     }
